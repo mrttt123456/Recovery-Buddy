@@ -1,0 +1,36 @@
+name: RecoveryBuddy
+description: An socialized app for injury prevention and stretching
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  stream_feed: ^0.6.0+2
+  stream_feed_flutter_core: ^0.8.0
+  image_picker: ^1.0.0
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.9.0
+  google_sign_in: ^6.1.5
+  firebase_storage: ^11.2.6
+  cloud_firestore: ^4.9.1
+  universal_html: ^2.2.4
+  url_launcher: ^6.1.14
+  shared_preferences: ^2.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/rotator_cuff.jpg
+    - assets/images/wall_shoulder_flexion.jpg
+    - assets/images/wall_shoulder_squeeze.png
+    
+

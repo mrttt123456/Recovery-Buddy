@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "548648002546",
+    "project_id": "recovery-buddy-398222",
+    "storage_bucket": "recovery-buddy-398222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548648002546:android:430ec3522859c352ba016b",
+        "android_client_info": {
+          "package_name": "com.example.stretchsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548648002546-0ctbdcj5jfc7imn76m1cqfubb17nhm12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29W6FEOkP_CB8jO3HdY30xg08nW1yTz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548648002546-0ctbdcj5jfc7imn76m1cqfubb17nhm12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548648002546-1arhpod978hnh64lepre5dkej14fh0iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stretchsafe.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
